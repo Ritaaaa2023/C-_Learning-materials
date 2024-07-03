@@ -1,0 +1,15 @@
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/bin/Debug/net7.0/Exercise01
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/bin/Debug/net7.0/Exercise01.deps.json
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/bin/Debug/net7.0/Exercise01.runtimeconfig.json
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/bin/Debug/net7.0/Exercise01.dll
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/bin/Debug/net7.0/Exercise01.pdb
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.csproj.AssemblyReference.cache
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.AssemblyInfoInputs.cache
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.AssemblyInfo.cs
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.csproj.CoreCompileInputs.cache
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.dll
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/refint/Exercise01.dll
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.pdb
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/Exercise01.genruntimeconfig.cache
+/Users/wangjiao/Desktop/C#-Learning-Project/C-_Learning-materials/Exercise01/Exercise01/obj/Debug/net7.0/ref/Exercise01.dll

@@ -130,7 +130,7 @@ class Program
         double h = Math.Min(x, y);
         Console.WriteLine(h);
 
-        */
+        
 
         //7.generate random number
         Random random = new Random();
@@ -139,7 +139,11 @@ class Program
         double num = random.NextDouble()+1;
 
         Console.WriteLine(num);
-             
+        */
+
+     
+
+
 
     }
 }
