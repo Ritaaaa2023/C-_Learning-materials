@@ -150,6 +150,11 @@ class Program
         double num = random.NextDouble() + 1;
 
         Console.WriteLine(num);
+        // double x = 3.99;
+        double y = 5;
+
+        double a = Math.Pow(y, 2);
+         Console.WriteLine(a);
     }
 }
 

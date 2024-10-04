@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrH7NVGnpbv5VPx4D7us6FdZO8C4SyP365OBYs1jK3OaNMgm/7esAMV/tcq9MZAikxX/dQUBJ3/zTro+8iiXkA==",
+  "dgSpecHash": "UZJoLj7fwkg=",
   "success": true,
-  "projectFilePath": "/Users/wangjiao/Projects/C-_Learning-materials/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/wangjiao/Desktop/C-_Learning-materials/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/wangjiao/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/wangjiao/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/wangjiao/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
