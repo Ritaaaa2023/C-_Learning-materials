@@ -143,10 +143,13 @@ class Program
 
 
         //test git
-     
 
 
+        //test 2
+        Random random = new Random();
+        double num = random.NextDouble() + 1;
 
+        Console.WriteLine(num);
     }
 }
 
